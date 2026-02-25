@@ -94,7 +94,7 @@ Ports Mapping:
 - Images pulled from Docker Hub
 - Containers deployed using docker-compose
 
-Application accessible at:
+Application accessible at that time when EC2 running beacuse of dynamic public cause of the we have to change according to the public IP everytime after the running EC2 instance so we have add this public IP to secrets update and the reun again if we do not want this process so we have to use Elastic IP and domain name.
 
 http://13.204.76.250
 
